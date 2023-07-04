@@ -7,6 +7,8 @@ Description
 This Extension uses the library Tessagon to create tiling patterns
 through a user interface in Inkscape.
 
+![Examples of this extension](inkscape-tiling-extension.png)
+
 Installation
 ------------
 
