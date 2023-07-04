@@ -1,6 +1,13 @@
 Inkscape Tiling Extension
 =========================
 
+Important note
+--------------
+
+I am rethinking how I package/distribute this. You might want to check this forum discussion to download a zip file of the extension instead of getting it from here:
+
+*<https://inkscape.org/forums/extensions/new-extension-tiling-patterns/>*
+
 Description
 -----------
 
