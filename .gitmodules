@@ -1,0 +1,3 @@
+[submodule "tessagon"]
+	path = tessagon
+	url = https://github.com/cwant/tessagon.git
